@@ -1,4 +1,5 @@
 ## Hello. 你好. Guten Tag. 안녕하세요.👋
+![avatar](https://github.com/user-attachments/assets/98722969-87e9-413e-b722-6e4cf95002d0)
 
 - :tada: Current project on machine learning techniques on Seoul Ride Sharing dataset
 - :shamrock: Currently grinding out python's sklearn and tableau visualisations
