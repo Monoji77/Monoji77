@@ -1,7 +1,6 @@
 ## Hello. 你好. Guten Tag. 안녕하세요.👋
 ![avatar](https://github.com/user-attachments/assets/98722969-87e9-413e-b722-6e4cf95002d0)
 
-- :tada: Current project on machine learning techniques on Seoul Ride Sharing dataset
 - :shamrock: Currently grinding out python's sklearn and tableau visualisations
 
 I am a year 3 data science and analytics undergraduate. My school's curriculum has enforced the learning of multivariate calculus and basic linear algebra during the first 2 years of my academic journey. What I have theoretical knowledge in, I lack in the coding experience. I am going to attempt churning out quality projects showcasing the data science concepts taught in my machine learning projects. I am also looking for a data science-related internship to gain full stack industrial experience. Enjoy looking at my attempts at various datasets.
