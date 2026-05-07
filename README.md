@@ -1,20 +1,12 @@
 ## Hello. 你好. Guten Tag. 안녕하세요.👋
 ![avatar](https://github.com/user-attachments/assets/98722969-87e9-413e-b722-6e4cf95002d0)
 
-- :shamrock: Currently grinding out python's sklearn and tableau visualisations
+- :shamrock: I'm an early-career statistician and Data Science & Analytics graduate interested in statistical modelling, market risk, simulation, machine learning, and applied analytics. I use this GitHub to document my technical development and build projects that translate statistical methods into practical, interpretable tools.
 
-I am a year 4 data science and analytics undergraduate. My school's curriculum has enforced the learning of multivariate calculus and basic linear algebra during the first 3 years of my academic journey. I am going to attempt churning out quality projects showcasing the data science concepts taught in my machine learning projects. I am also looking for a data science-related internship to gain full stack industrial experience. Enjoy looking at my attempts at various datasets.
-<!--
-**Monoji77/Monoji77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Currently working on
 
-Here are some ideas to get you started:
+- **Market Risk Engine**  
+  A Python and Streamlit-based risk analytics dashboard covering portfolio construction, Value-at-Risk, Expected Shortfall, backtesting, stress testing, volatility modelling, and risk attribution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Applied Statistical Modelling Projects**  
+  Projects involving regression, classification, time series analysis, Bayesian statistics, simulation, and interactive visualisation.
